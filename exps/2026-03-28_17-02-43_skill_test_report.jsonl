@@ -1,0 +1,200 @@
+{"run":1,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"I need to figure out /discuss this concept better","result":"pass"}
+{"run":2,"sample":"no_hook","skill":"echo","position":"end","prefix":"/","prompt":"help me understand something important /echo","result":"pass"}
+{"run":3,"sample":"no_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo I want to improve my workflow today","result":"fail"}
+{"run":4,"sample":"no_hook","skill":"echo","position":"end","prefix":"/","prompt":"help me understand this concept better /echo","result":"pass"}
+{"run":5,"sample":"no_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss can you help me this concept better","result":"fail"}
+{"run":6,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"let me know about /discuss do this properly","result":"pass"}
+{"run":7,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent what is the best do this properly","result":"fail"}
+{"run":8,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent help me understand this concept better","result":"fail"}
+{"run":9,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"help me understand /fluent the right way","result":"pass"}
+{"run":10,"sample":"no_hook","skill":"echo","position":"end","prefix":"/","prompt":"let me know about the right way /echo","result":"pass"}
+{"run":11,"sample":"no_hook","skill":"echo","position":"end","prefix":"/","prompt":"can you help me with this task /echo","result":"pass"}
+{"run":12,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent I need to figure out with this task","result":"fail"}
+{"run":13,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"please explain to me /echo approach for this","result":"pass"}
+{"run":14,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"I want to improve /fluent the right way","result":"pass"}
+{"run":15,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"let me know about /discuss my workflow today","result":"pass"}
+{"run":16,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"let me know about with this task /fluent","result":"pass"}
+{"run":17,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent show me how to approach for this","result":"fail"}
+{"run":18,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"I need to figure out /discuss this concept better","result":"pass"}
+{"run":19,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"what is the best /discuss my workflow today","result":"pass"}
+{"run":20,"sample":"no_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo help me understand approach for this","result":"fail"}
+{"run":21,"sample":"no_hook","skill":"discuss","position":"end","prefix":"/","prompt":"let me know about approach for this /discuss","result":"pass"}
+{"run":22,"sample":"no_hook","skill":"discuss","position":"end","prefix":"/","prompt":"can you help me how it works /discuss","result":"pass"}
+{"run":23,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"show me how to /echo approach for this","result":"pass"}
+{"run":24,"sample":"no_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss let me know about my workflow today","result":"fail"}
+{"run":25,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"can you help me /fluent how it works","result":"pass"}
+{"run":26,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"show me how to /discuss something important","result":"pass"}
+{"run":27,"sample":"no_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss I need to figure out with this task","result":"fail"}
+{"run":28,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"help me understand /echo how it works","result":"pass"}
+{"run":29,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"can you help me /echo the right way","result":"pass"}
+{"run":30,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent help me understand my workflow today","result":"fail"}
+{"run":31,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"help me understand approach for this /fluent","result":"pass"}
+{"run":32,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"let me know about with this task /fluent","result":"pass"}
+{"run":33,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"show me how to /echo my workflow today","result":"pass"}
+{"run":34,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"what is the best /discuss this concept better","result":"pass"}
+{"run":35,"sample":"no_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo show me how to my workflow today","result":"fail"}
+{"run":36,"sample":"no_hook","skill":"discuss","position":"end","prefix":"/","prompt":"let me know about this concept better /discuss","result":"pass"}
+{"run":37,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"I want to improve /echo approach for this","result":"fail"}
+{"run":38,"sample":"no_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo can you help me the right way","result":"fail"}
+{"run":39,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent I need to figure out my workflow today","result":"fail"}
+{"run":40,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"can you help me /fluent with this task","result":"pass"}
+{"run":41,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"can you help me /echo with this task","result":"pass"}
+{"run":42,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent show me how to my workflow today","result":"fail"}
+{"run":43,"sample":"no_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss let me know about do this properly","result":"fail"}
+{"run":44,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"let me know about /echo approach for this","result":"pass"}
+{"run":45,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"I want to improve /fluent my workflow today","result":"pass"}
+{"run":46,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"let me know about /discuss how it works","result":"pass"}
+{"run":47,"sample":"no_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss help me understand how it works","result":"fail"}
+{"run":48,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"please explain to me /echo do this properly","result":"pass"}
+{"run":49,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent help me understand how it works","result":"fail"}
+{"run":50,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"I need to figure out /echo how it works","result":"pass"}
+{"run":51,"sample":"no_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo help me understand approach for this","result":"fail"}
+{"run":52,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"I want to improve /fluent the right way","result":"pass"}
+{"run":53,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"show me how to /fluent approach for this","result":"pass"}
+{"run":54,"sample":"no_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss I want to improve my workflow today","result":"fail"}
+{"run":55,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"I need to figure out /discuss my workflow today","result":"pass"}
+{"run":56,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"let me know about something important /fluent","result":"pass"}
+{"run":57,"sample":"no_hook","skill":"discuss","position":"end","prefix":"/","prompt":"help me understand approach for this /discuss","result":"pass"}
+{"run":58,"sample":"no_hook","skill":"discuss","position":"end","prefix":"/","prompt":"I need to figure out with this task /discuss","result":"pass"}
+{"run":59,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"show me how to /echo approach for this","result":"pass"}
+{"run":60,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"let me know about the right way /fluent","result":"pass"}
+{"run":61,"sample":"no_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss let me know about with this task","result":"fail"}
+{"run":62,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"what is the best /discuss with this task","result":"pass"}
+{"run":63,"sample":"no_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo please explain to me do this properly","result":"fail"}
+{"run":64,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I want to improve something important /fluent","result":"pass"}
+{"run":65,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I need to figure out this concept better /fluent","result":"pass"}
+{"run":66,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"show me how to /discuss do this properly","result":"pass"}
+{"run":67,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"I need to figure out /fluent the right way","result":"pass"}
+{"run":68,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"can you help me /fluent something important","result":"pass"}
+{"run":69,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"let me know about /discuss this concept better","result":"pass"}
+{"run":70,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"let me know about /discuss with this task","result":"pass"}
+{"run":71,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"show me how to /echo this concept better","result":"pass"}
+{"run":72,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"show me how to /discuss the right way","result":"pass"}
+{"run":73,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"what is the best how it works /fluent","result":"pass"}
+{"run":74,"sample":"no_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo what is the best something important","result":"fail"}
+{"run":75,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent can you help me the right way","result":"fail"}
+{"run":76,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"please explain to me /discuss how it works","result":"pass"}
+{"run":77,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"what is the best my workflow today /fluent","result":"pass"}
+{"run":78,"sample":"no_hook","skill":"echo","position":"end","prefix":"/","prompt":"I want to improve how it works /echo","result":"pass"}
+{"run":79,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"please explain to me /discuss the right way","result":"pass"}
+{"run":80,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"help me understand /fluent with this task","result":"pass"}
+{"run":81,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"help me understand this concept better /fluent","result":"pass"}
+{"run":82,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent let me know about the right way","result":"fail"}
+{"run":83,"sample":"no_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo what is the best approach for this","result":"fail"}
+{"run":84,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I need to figure out this concept better /fluent","result":"pass"}
+{"run":85,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I need to figure out how it works /fluent","result":"pass"}
+{"run":86,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"what is the best /discuss something important","result":"pass"}
+{"run":87,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"show me how to /discuss with this task","result":"pass"}
+{"run":88,"sample":"no_hook","skill":"echo","position":"end","prefix":"/","prompt":"help me understand how it works /echo","result":"pass"}
+{"run":89,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I need to figure out approach for this /fluent","result":"pass"}
+{"run":90,"sample":"no_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I need to figure out approach for this /fluent","result":"pass"}
+{"run":91,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent what is the best with this task","result":"fail"}
+{"run":92,"sample":"no_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss show me how to the right way","result":"fail"}
+{"run":93,"sample":"no_hook","skill":"discuss","position":"end","prefix":"/","prompt":"I want to improve approach for this /discuss","result":"pass"}
+{"run":94,"sample":"no_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss show me how to approach for this","result":"fail"}
+{"run":95,"sample":"no_hook","skill":"echo","position":"middle","prefix":"/","prompt":"I need to figure out /echo with this task","result":"pass"}
+{"run":96,"sample":"no_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"I need to figure out /discuss do this properly","result":"pass"}
+{"run":97,"sample":"no_hook","skill":"discuss","position":"end","prefix":"/","prompt":"please explain to me approach for this /discuss","result":"pass"}
+{"run":98,"sample":"no_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"I want to improve /fluent this concept better","result":"pass"}
+{"run":99,"sample":"no_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo please explain to me the right way","result":"fail"}
+{"run":100,"sample":"no_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent let me know about do this properly","result":"fail"}
+{"run":1,"sample":"with_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss I need to figure out with this task","result":"fail"}
+{"run":2,"sample":"with_hook","skill":"fluent","position":"end","prefix":"#","prompt":"I need to figure out something important #fluent","result":"pass"}
+{"run":3,"sample":"with_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss please explain to me how it works","result":"fail"}
+{"run":4,"sample":"with_hook","skill":"discuss","position":"end","prefix":"#","prompt":"can you help me how it works #discuss","result":"pass"}
+{"run":5,"sample":"with_hook","skill":"fluent","position":"start","prefix":"#","prompt":"#fluent let me know about with this task","result":"pass"}
+{"run":6,"sample":"with_hook","skill":"discuss","position":"start","prefix":"#","prompt":"#discuss can you help me approach for this","result":"pass"}
+{"run":7,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"please explain to me /echo how it works","result":"pass"}
+{"run":8,"sample":"with_hook","skill":"fluent","position":"start","prefix":"#","prompt":"#fluent help me understand do this properly","result":"pass"}
+{"run":9,"sample":"with_hook","skill":"echo","position":"start","prefix":"#","prompt":"#echo show me how to the right way","result":"pass"}
+{"run":10,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"#","prompt":"show me how to #discuss approach for this","result":"pass"}
+{"run":11,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"I need to figure out /discuss with this task","result":"pass"}
+{"run":12,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I need to figure out how it works /fluent","result":"pass"}
+{"run":13,"sample":"with_hook","skill":"echo","position":"start","prefix":"#","prompt":"#echo can you help me this concept better","result":"fail"}
+{"run":14,"sample":"with_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent I need to figure out my workflow today","result":"fail"}
+{"run":15,"sample":"with_hook","skill":"echo","position":"end","prefix":"/","prompt":"help me understand do this properly /echo","result":"pass"}
+{"run":16,"sample":"with_hook","skill":"echo","position":"end","prefix":"/","prompt":"show me how to how it works /echo","result":"pass"}
+{"run":17,"sample":"with_hook","skill":"fluent","position":"end","prefix":"#","prompt":"I need to figure out my workflow today #fluent","result":"pass"}
+{"run":18,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"help me understand this concept better /fluent","result":"pass"}
+{"run":19,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I need to figure out approach for this /fluent","result":"pass"}
+{"run":20,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"I want to improve /echo with this task","result":"fail"}
+{"run":21,"sample":"with_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"I need to figure out /fluent with this task","result":"pass"}
+{"run":22,"sample":"with_hook","skill":"discuss","position":"start","prefix":"#","prompt":"#discuss I want to improve approach for this","result":"pass"}
+{"run":23,"sample":"with_hook","skill":"fluent","position":"end","prefix":"#","prompt":"what is the best the right way #fluent","result":"pass"}
+{"run":24,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"show me how to my workflow today /fluent","result":"pass"}
+{"run":25,"sample":"with_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss I want to improve this concept better","result":"fail"}
+{"run":26,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"#","prompt":"can you help me #discuss something important","result":"pass"}
+{"run":27,"sample":"with_hook","skill":"fluent","position":"end","prefix":"#","prompt":"I need to figure out with this task #fluent","result":"pass"}
+{"run":28,"sample":"with_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent help me understand how it works","result":"fail"}
+{"run":29,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"please explain to me /echo do this properly","result":"pass"}
+{"run":30,"sample":"with_hook","skill":"discuss","position":"start","prefix":"#","prompt":"#discuss show me how to do this properly","result":"pass"}
+{"run":31,"sample":"with_hook","skill":"fluent","position":"middle","prefix":"#","prompt":"please explain to me #fluent approach for this","result":"pass"}
+{"run":32,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I want to improve something important /fluent","result":"pass"}
+{"run":33,"sample":"with_hook","skill":"echo","position":"middle","prefix":"#","prompt":"what is the best #echo approach for this","result":"pass"}
+{"run":34,"sample":"with_hook","skill":"echo","position":"start","prefix":"#","prompt":"#echo let me know about my workflow today","result":"pass"}
+{"run":35,"sample":"with_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent I need to figure out the right way","result":"fail"}
+{"run":36,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"can you help me my workflow today /discuss","result":"pass"}
+{"run":37,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"I want to improve this concept better /fluent","result":"pass"}
+{"run":38,"sample":"with_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent I want to improve my workflow today","result":"fail"}
+{"run":39,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"help me understand /echo with this task","result":"pass"}
+{"run":40,"sample":"with_hook","skill":"echo","position":"end","prefix":"#","prompt":"please explain to me do this properly #echo","result":"pass"}
+{"run":41,"sample":"with_hook","skill":"fluent","position":"end","prefix":"#","prompt":"what is the best approach for this #fluent","result":"pass"}
+{"run":42,"sample":"with_hook","skill":"echo","position":"start","prefix":"#","prompt":"#echo help me understand the right way","result":"pass"}
+{"run":43,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"#","prompt":"help me understand #discuss with this task","result":"pass"}
+{"run":44,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"what is the best something important /fluent","result":"pass"}
+{"run":45,"sample":"with_hook","skill":"echo","position":"end","prefix":"#","prompt":"I need to figure out this concept better #echo","result":"pass"}
+{"run":46,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"can you help me how it works /fluent","result":"fail"}
+{"run":47,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"let me know about this concept better /discuss","result":"pass"}
+{"run":48,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"help me understand /echo how it works","result":"pass"}
+{"run":49,"sample":"with_hook","skill":"echo","position":"start","prefix":"#","prompt":"#echo I want to improve the right way","result":"fail"}
+{"run":50,"sample":"with_hook","skill":"discuss","position":"end","prefix":"#","prompt":"I want to improve the right way #discuss","result":"pass"}
+{"run":51,"sample":"with_hook","skill":"fluent","position":"middle","prefix":"#","prompt":"can you help me #fluent something important","result":"pass"}
+{"run":52,"sample":"with_hook","skill":"discuss","position":"end","prefix":"#","prompt":"I want to improve how it works #discuss","result":"pass"}
+{"run":53,"sample":"with_hook","skill":"echo","position":"middle","prefix":"#","prompt":"let me know about #echo my workflow today","result":"pass"}
+{"run":54,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"I need to figure out /echo do this properly","result":"pass"}
+{"run":55,"sample":"with_hook","skill":"fluent","position":"start","prefix":"#","prompt":"#fluent what is the best approach for this","result":"pass"}
+{"run":56,"sample":"with_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss please explain to me do this properly","result":"fail"}
+{"run":57,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"can you help me /discuss my workflow today","result":"pass"}
+{"run":58,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"I need to figure out /discuss how it works","result":"pass"}
+{"run":59,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"please explain to me my workflow today /discuss","result":"pass"}
+{"run":60,"sample":"with_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss I want to improve my workflow today","result":"fail"}
+{"run":61,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"I need to figure out /echo with this task","result":"pass"}
+{"run":62,"sample":"with_hook","skill":"echo","position":"end","prefix":"#","prompt":"can you help me my workflow today #echo","result":"pass"}
+{"run":63,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"#","prompt":"can you help me #discuss something important","result":"pass"}
+{"run":64,"sample":"with_hook","skill":"echo","position":"middle","prefix":"#","prompt":"let me know about #echo approach for this","result":"pass"}
+{"run":65,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"/","prompt":"what is the best /discuss do this properly","result":"pass"}
+{"run":66,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"show me how to the right way /fluent","result":"pass"}
+{"run":67,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"#","prompt":"can you help me #discuss do this properly","result":"pass"}
+{"run":68,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"what is the best this concept better /fluent","result":"pass"}
+{"run":69,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"I need to figure out the right way /discuss","result":"pass"}
+{"run":70,"sample":"with_hook","skill":"fluent","position":"middle","prefix":"#","prompt":"please explain to me #fluent approach for this","result":"fail"}
+{"run":71,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"#","prompt":"please explain to me #discuss approach for this","result":"pass"}
+{"run":72,"sample":"with_hook","skill":"echo","position":"end","prefix":"/","prompt":"I want to improve my workflow today /echo","result":"pass"}
+{"run":73,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"let me know about with this task /discuss","result":"pass"}
+{"run":74,"sample":"with_hook","skill":"fluent","position":"middle","prefix":"#","prompt":"I want to improve #fluent this concept better","result":"pass"}
+{"run":75,"sample":"with_hook","skill":"discuss","position":"start","prefix":"#","prompt":"#discuss show me how to with this task","result":"pass"}
+{"run":76,"sample":"with_hook","skill":"fluent","position":"middle","prefix":"#","prompt":"help me understand #fluent how it works","result":"pass"}
+{"run":77,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"show me how to something important /discuss","result":"pass"}
+{"run":78,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"#","prompt":"show me how to #discuss with this task","result":"pass"}
+{"run":79,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"what is the best do this properly /discuss","result":"pass"}
+{"run":80,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"let me know about the right way /discuss","result":"pass"}
+{"run":81,"sample":"with_hook","skill":"discuss","position":"start","prefix":"#","prompt":"#discuss I need to figure out how it works","result":"pass"}
+{"run":82,"sample":"with_hook","skill":"echo","position":"middle","prefix":"#","prompt":"show me how to #echo something important","result":"pass"}
+{"run":83,"sample":"with_hook","skill":"echo","position":"start","prefix":"/","prompt":"/echo I need to figure out something important","result":"fail"}
+{"run":84,"sample":"with_hook","skill":"discuss","position":"start","prefix":"/","prompt":"/discuss I want to improve my workflow today","result":"fail"}
+{"run":85,"sample":"with_hook","skill":"fluent","position":"start","prefix":"/","prompt":"/fluent can you help me something important","result":"fail"}
+{"run":86,"sample":"with_hook","skill":"echo","position":"end","prefix":"/","prompt":"can you help me this concept better /echo","result":"pass"}
+{"run":87,"sample":"with_hook","skill":"fluent","position":"middle","prefix":"/","prompt":"I need to figure out /fluent my workflow today","result":"pass"}
+{"run":88,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"please explain to me do this properly /discuss","result":"pass"}
+{"run":89,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"what is the best approach for this /fluent","result":"pass"}
+{"run":90,"sample":"with_hook","skill":"discuss","position":"end","prefix":"/","prompt":"help me understand something important /discuss","result":"pass"}
+{"run":91,"sample":"with_hook","skill":"fluent","position":"middle","prefix":"#","prompt":"what is the best #fluent the right way","result":"pass"}
+{"run":92,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"let me know about /echo something important","result":"pass"}
+{"run":93,"sample":"with_hook","skill":"echo","position":"end","prefix":"#","prompt":"help me understand something important #echo","result":"pass"}
+{"run":94,"sample":"with_hook","skill":"fluent","position":"middle","prefix":"#","prompt":"let me know about #fluent something important","result":"fail"}
+{"run":95,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"what is the best /echo how it works","result":"pass"}
+{"run":96,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"let me know about /echo something important","result":"pass"}
+{"run":97,"sample":"with_hook","skill":"echo","position":"middle","prefix":"/","prompt":"I need to figure out /echo approach for this","result":"pass"}
+{"run":98,"sample":"with_hook","skill":"fluent","position":"start","prefix":"#","prompt":"#fluent show me how to my workflow today","result":"pass"}
+{"run":99,"sample":"with_hook","skill":"discuss","position":"middle","prefix":"#","prompt":"let me know about #discuss something important","result":"pass"}
+{"run":100,"sample":"with_hook","skill":"fluent","position":"end","prefix":"/","prompt":"show me how to do this properly /fluent","result":"pass"}

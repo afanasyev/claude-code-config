@@ -1,0 +1,198 @@
+{"pair_id":1,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"Can we #discuss the next iteration","result":"pass"}
+{"pair_id":2,"sample":"sample_a","skill":"discuss","position":"end","prompt":"I want to track this event to analytics #discuss","result":"pass"}
+{"pair_id":3,"sample":"sample_a","skill":"echo","position":"end","prompt":"We compare two samples: no hook and with hook #echo","result":"pass"}
+{"pair_id":4,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The test with random prompts doesn't reflect my real usage pattern #fluent","result":"pass"}
+{"pair_id":5,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"I think we should #discuss the tradeoffs first","result":"pass"}
+{"pair_id":6,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I want to improve my approach and prepare good hypotheses and experiments #fluent","result":"pass"}
+{"pair_id":7,"sample":"sample_a","skill":"fluent","position":"end","prompt":"Second way was create skill for each tag so you can see when skill is invoke #fluent","result":"pass"}
+{"pair_id":8,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"I am ready to go ahead and #discuss what messages we should send","result":"pass"}
+{"pair_id":9,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss the next step in the plan","result":"pass"}
+{"pair_id":10,"sample":"sample_a","skill":"discuss","position":"end","prompt":"Should we add a fallback? #discuss","result":"pass"}
+{"pair_id":11,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I use echo to verify that claude understood what I wrote correctly #fluent","result":"pass"}
+{"pair_id":12,"sample":"sample_a","skill":"echo","position":"end","prompt":"The UserPromptSubmit hook fires on every message regardless of content #echo","result":"pass"}
+{"pair_id":13,"sample":"sample_a","skill":"echo","position":"end","prompt":"The model sees the injected instruction before processing the user message #echo","result":"pass"}
+{"pair_id":14,"sample":"sample_a","skill":"echo","position":"end","prompt":"The fluent skill rewrites text as a native English speaker would write it #echo","result":"pass"}
+{"pair_id":15,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I want to automate my daily patterns with claude and use tags to trigger them #fluent","result":"pass"}
+{"pair_id":16,"sample":"sample_a","skill":"discuss","position":"end","prompt":"I want to add a retry mechanism #discuss","result":"pass"}
+{"pair_id":17,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss the approach for the next iteration","result":"pass"}
+{"pair_id":18,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I create hook and this solve my problem but not completely #fluent","result":"pass"}
+{"pair_id":19,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The discuss skill helps me think deeper not just wider #fluent","result":"pass"}
+{"pair_id":20,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The experiment should tell us if the hook is enough or we need something more #fluent","result":"pass"}
+{"pair_id":21,"sample":"sample_a","skill":"discuss","position":"end","prompt":"What if we do it this way? #discuss","result":"pass"}
+{"pair_id":22,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss how to split this into independent steps with predictable outcome","result":"pass"}
+{"pair_id":23,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss this idea","result":"pass"}
+{"pair_id":24,"sample":"sample_a","skill":"echo","position":"end","prompt":"We check every 10 minutes and skip users who are currently active #echo","result":"pass"}
+{"pair_id":25,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I spend a lot of time to discuss, finding information, researching, planning #fluent","result":"pass"}
+{"pair_id":26,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The problem is skills don't invoke every time than they needed #fluent","result":"pass"}
+{"pair_id":27,"sample":"sample_a","skill":"fluent","position":"end","prompt":"Position at end of message is most natural for my usage #fluent","result":"pass"}
+{"pair_id":28,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The goal is predictable tool invoke every time when I use tag in message #fluent","result":"pass"}
+{"pair_id":29,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"We should #discuss how to handle this edge case","result":"pass"}
+{"pair_id":30,"sample":"sample_a","skill":"echo","position":"end","prompt":"The echo skill restates the user task without analyzing or proposing #echo","result":"pass"}
+{"pair_id":31,"sample":"sample_a","skill":"echo","position":"end","prompt":"We test 3 skills across 3 positions with 100 runs total #echo","result":"pass"}
+{"pair_id":32,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss what messages we should send to re-engage users","result":"pass"}
+{"pair_id":33,"sample":"sample_a","skill":"discuss","position":"end","prompt":"I want to improve this approach #discuss","result":"pass"}
+{"pair_id":34,"sample":"sample_a","skill":"echo","position":"end","prompt":"The skill is invoked by the hook when the tag appears in the prompt #echo","result":"fail"}
+{"pair_id":35,"sample":"sample_a","skill":"echo","position":"end","prompt":"Each run creates a fresh session to avoid context contamination #echo","result":"pass"}
+{"pair_id":36,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss should we add a fallback here","result":"pass"}
+{"pair_id":37,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss how to handle errors in this case","result":"pass"}
+{"pair_id":38,"sample":"sample_a","skill":"echo","position":"end","prompt":"The hook fires on every prompt and injects context only when a tag is found #echo","result":"fail"}
+{"pair_id":39,"sample":"sample_a","skill":"echo","position":"end","prompt":"End position means the tag is the last word in the prompt #echo","result":"pass"}
+{"pair_id":40,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"Before we proceed, let's #discuss the approach","result":"pass"}
+{"pair_id":41,"sample":"sample_a","skill":"echo","position":"end","prompt":"The pass rate is 69% without the hook and 82% with the hook #echo","result":"pass"}
+{"pair_id":42,"sample":"sample_a","skill":"echo","position":"end","prompt":"Should we create this section or remove it completely #echo","result":"pass"}
+{"pair_id":43,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The hook output is injected as additional context before model processes the message #fluent","result":"pass"}
+{"pair_id":44,"sample":"sample_a","skill":"fluent","position":"end","prompt":"Skills don't invoke every time when I use command for skill #fluent","result":"fail"}
+{"pair_id":45,"sample":"sample_a","skill":"echo","position":"end","prompt":"We want the skill invocation rate to be close to 100% #echo","result":"pass"}
+{"pair_id":46,"sample":"sample_a","skill":"fluent","position":"end","prompt":"We need real prompts from my actual conversations to get accurate results #fluent","result":"pass"}
+{"pair_id":47,"sample":"sample_a","skill":"echo","position":"end","prompt":"Middle position means the tag appears after some words and before others #echo","result":"pass"}
+{"pair_id":48,"sample":"sample_a","skill":"discuss","position":"end","prompt":"The session should expire after 30 minutes of inactivity #discuss","result":"pass"}
+{"pair_id":49,"sample":"sample_a","skill":"echo","position":"end","prompt":"Position start means the tag is the first word in the prompt #echo","result":"pass"}
+{"pair_id":50,"sample":"sample_a","skill":"fluent","position":"end","prompt":"We want to measure the gap between current state and 100% reliability #fluent","result":"pass"}
+{"pair_id":51,"sample":"sample_a","skill":"echo","position":"end","prompt":"The experiment compares pass rates with and without the hook #echo","result":"fail"}
+{"pair_id":52,"sample":"sample_a","skill":"discuss","position":"end","prompt":"I want to send a re-engagement message after 24 hours #discuss","result":"pass"}
+{"pair_id":53,"sample":"sample_a","skill":"echo","position":"end","prompt":"The test measures whether the Skill tool was called in the session #echo","result":"pass"}
+{"pair_id":54,"sample":"sample_a","skill":"echo","position":"end","prompt":"The hook is the third layer after CLAUDE.md tags and skills #echo","result":"fail"}
+{"pair_id":55,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"I need to #discuss this with you before moving forward","result":"pass"}
+{"pair_id":56,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss how to structure this module","result":"pass"}
+{"pair_id":57,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"I want to #discuss how to implement this step","result":"pass"}
+{"pair_id":58,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The hook injects explicit instruction into system context when tag is detected #fluent","result":"fail"}
+{"pair_id":59,"sample":"sample_a","skill":"echo","position":"end","prompt":"The hook script reads the prompt and outputs the instruction if a tag is found #echo","result":"fail"}
+{"pair_id":60,"sample":"sample_a","skill":"echo","position":"end","prompt":"The hook type is command which runs a shell script #echo","result":"fail"}
+{"pair_id":61,"sample":"sample_a","skill":"fluent","position":"end","prompt":"After this experiment we will have data to decide the next improvement step #fluent","result":"pass"}
+{"pair_id":62,"sample":"sample_a","skill":"echo","position":"end","prompt":"We remove the hook for sample 1 and restore it for sample 2 #echo","result":"pass"}
+{"pair_id":63,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I want to reduce friction and ensure consistent behavior every time #fluent","result":"pass"}
+{"pair_id":64,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss the tradeoffs of this approach","result":"pass"}
+{"pair_id":65,"sample":"sample_a","skill":"echo","position":"end","prompt":"We use a JSONL file to log each run for later analysis #echo","result":"pass"}
+{"pair_id":66,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I want to present this experiment in my blog post about skill invocation #fluent","result":"pass"}
+{"pair_id":67,"sample":"sample_a","skill":"echo","position":"end","prompt":"The discuss skill challenges ideas and asks probing questions #echo","result":"pass"}
+{"pair_id":68,"sample":"sample_a","skill":"echo","position":"end","prompt":"The UserPromptSubmit hook fires before the model receives the message #echo","result":"pass"}
+{"pair_id":69,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The hook fires before claude sees the prompt and injects instruction if tag is found #fluent","result":"fail"}
+{"pair_id":70,"sample":"sample_a","skill":"discuss","position":"end","prompt":"I think this logic is wrong #discuss","result":"pass"}
+{"pair_id":71,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The experiment should measure how well the current approach actually works #fluent","result":"pass"}
+{"pair_id":72,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"I want to #discuss whether we need this","result":"pass"}
+{"pair_id":73,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss the best way to implement this","result":"pass"}
+{"pair_id":74,"sample":"sample_a","skill":"echo","position":"end","prompt":"If no tag is found the hook outputs nothing and does nothing #echo","result":"pass"}
+{"pair_id":75,"sample":"sample_a","skill":"echo","position":"end","prompt":"We want to automate recurring interaction patterns with minimal friction #echo","result":"pass"}
+{"pair_id":76,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The test script runs 100 times and checks if the Skill tool was called #fluent","result":"pass"}
+{"pair_id":77,"sample":"sample_a","skill":"discuss","position":"end","prompt":"cron should check every 10 minutes #discuss","result":"pass"}
+{"pair_id":78,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I notice that every time skill didn't invoke I wrote something explicit and it works #fluent","result":"pass"}
+{"pair_id":79,"sample":"sample_a","skill":"discuss","position":"end","prompt":"correct #discuss","result":"pass"}
+{"pair_id":80,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I try to automate this and use hook to grow probability to invoke #fluent","result":"pass"}
+{"pair_id":81,"sample":"sample_a","skill":"echo","position":"end","prompt":"The goal is to invoke the skill every time the tag appears #echo","result":"pass"}
+{"pair_id":82,"sample":"sample_a","skill":"echo","position":"end","prompt":"We send the message after 24 hours of inactivity #echo","result":"pass"}
+{"pair_id":83,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"Let's #discuss the implementation before writing code","result":"pass"}
+{"pair_id":84,"sample":"sample_a","skill":"fluent","position":"end","prompt":"We should compare pass rates across positions to understand the pattern #fluent","result":"pass"}
+{"pair_id":85,"sample":"sample_a","skill":"echo","position":"end","prompt":"We store session start time and compare it on the next cron run #echo","result":"pass"}
+{"pair_id":86,"sample":"sample_a","skill":"fluent","position":"end","prompt":"The hook is good solution but we want to understand if it is enough #fluent","result":"pass"}
+{"pair_id":87,"sample":"sample_a","skill":"echo","position":"end","prompt":"If I restart the bot the cron will continue from last checkpoint #echo","result":"pass"}
+{"pair_id":88,"sample":"sample_a","skill":"fluent","position":"end","prompt":"We need to understand why skill invocation fails before we can fix it #fluent","result":"pass"}
+{"pair_id":89,"sample":"sample_a","skill":"echo","position":"end","prompt":"We use chi-squared test to check if the difference is statistically significant #echo","result":"pass"}
+{"pair_id":90,"sample":"sample_a","skill":"fluent","position":"end","prompt":"My first iteration was create tags in the global CLAUDE.md with relevant actions #fluent","result":"pass"}
+{"pair_id":91,"sample":"sample_a","skill":"fluent","position":"end","prompt":"This is so annoying me that I dig how to increase probability to invoke skill #fluent","result":"pass"}
+{"pair_id":92,"sample":"sample_a","skill":"discuss","position":"end","prompt":"What other messages should we send? #discuss","result":"pass"}
+{"pair_id":93,"sample":"sample_a","skill":"discuss","position":"start","prompt":"#discuss whether we need this feature at all","result":"pass"}
+{"pair_id":94,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I use tags for me this is a very native format #fluent","result":"pass"}
+{"pair_id":95,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I want to know what is the real pass rate with my actual prompts #fluent","result":"pass"}
+{"pair_id":96,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"Right, let's #discuss this task","result":"pass"}
+{"pair_id":97,"sample":"sample_a","skill":"echo","position":"end","prompt":"The experiment uses fresh sessions to avoid context contamination #echo","result":"pass"}
+{"pair_id":98,"sample":"sample_a","skill":"discuss","position":"middle","prompt":"I have an idea, let's #discuss it","result":"pass"}
+{"pair_id":99,"sample":"sample_a","skill":"fluent","position":"end","prompt":"I use fluent to improve my writing and make it sound more natural #fluent","result":"pass"}
+{"pair_id":1,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"Can we #discuss the next iteration","result":"pass"}
+{"pair_id":2,"sample":"sample_b","skill":"discuss","position":"end","prompt":"I want to track this event to analytics #discuss","result":"pass"}
+{"pair_id":3,"sample":"sample_b","skill":"echo","position":"end","prompt":"We compare two samples: no hook and with hook #echo","result":"pass"}
+{"pair_id":4,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The test with random prompts doesn't reflect my real usage pattern #fluent","result":"pass"}
+{"pair_id":5,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"I think we should #discuss the tradeoffs first","result":"pass"}
+{"pair_id":6,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I want to improve my approach and prepare good hypotheses and experiments #fluent","result":"pass"}
+{"pair_id":7,"sample":"sample_b","skill":"fluent","position":"end","prompt":"Second way was create skill for each tag so you can see when skill is invoke #fluent","result":"pass"}
+{"pair_id":8,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"I am ready to go ahead and #discuss what messages we should send","result":"pass"}
+{"pair_id":9,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss the next step in the plan","result":"pass"}
+{"pair_id":10,"sample":"sample_b","skill":"discuss","position":"end","prompt":"Should we add a fallback? #discuss","result":"pass"}
+{"pair_id":11,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I use echo to verify that claude understood what I wrote correctly #fluent","result":"pass"}
+{"pair_id":12,"sample":"sample_b","skill":"echo","position":"end","prompt":"The UserPromptSubmit hook fires on every message regardless of content #echo","result":"pass"}
+{"pair_id":13,"sample":"sample_b","skill":"echo","position":"end","prompt":"The model sees the injected instruction before processing the user message #echo","result":"pass"}
+{"pair_id":14,"sample":"sample_b","skill":"echo","position":"end","prompt":"The fluent skill rewrites text as a native English speaker would write it #echo","result":"pass"}
+{"pair_id":15,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I want to automate my daily patterns with claude and use tags to trigger them #fluent","result":"pass"}
+{"pair_id":16,"sample":"sample_b","skill":"discuss","position":"end","prompt":"I want to add a retry mechanism #discuss","result":"pass"}
+{"pair_id":17,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss the approach for the next iteration","result":"pass"}
+{"pair_id":18,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I create hook and this solve my problem but not completely #fluent","result":"pass"}
+{"pair_id":19,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The discuss skill helps me think deeper not just wider #fluent","result":"pass"}
+{"pair_id":20,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The experiment should tell us if the hook is enough or we need something more #fluent","result":"pass"}
+{"pair_id":21,"sample":"sample_b","skill":"discuss","position":"end","prompt":"What if we do it this way? #discuss","result":"pass"}
+{"pair_id":22,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss how to split this into independent steps with predictable outcome","result":"pass"}
+{"pair_id":23,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss this idea","result":"pass"}
+{"pair_id":24,"sample":"sample_b","skill":"echo","position":"end","prompt":"We check every 10 minutes and skip users who are currently active #echo","result":"pass"}
+{"pair_id":25,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I spend a lot of time to discuss, finding information, researching, planning #fluent","result":"pass"}
+{"pair_id":26,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The problem is skills don't invoke every time than they needed #fluent","result":"pass"}
+{"pair_id":27,"sample":"sample_b","skill":"fluent","position":"end","prompt":"Position at end of message is most natural for my usage #fluent","result":"pass"}
+{"pair_id":28,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The goal is predictable tool invoke every time when I use tag in message #fluent","result":"pass"}
+{"pair_id":29,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"We should #discuss how to handle this edge case","result":"pass"}
+{"pair_id":30,"sample":"sample_b","skill":"echo","position":"end","prompt":"The echo skill restates the user task without analyzing or proposing #echo","result":"pass"}
+{"pair_id":31,"sample":"sample_b","skill":"echo","position":"end","prompt":"We test 3 skills across 3 positions with 100 runs total #echo","result":"pass"}
+{"pair_id":32,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss what messages we should send to re-engage users","result":"pass"}
+{"pair_id":33,"sample":"sample_b","skill":"discuss","position":"end","prompt":"I want to improve this approach #discuss","result":"pass"}
+{"pair_id":34,"sample":"sample_b","skill":"echo","position":"end","prompt":"The skill is invoked by the hook when the tag appears in the prompt #echo","result":"pass"}
+{"pair_id":35,"sample":"sample_b","skill":"echo","position":"end","prompt":"Each run creates a fresh session to avoid context contamination #echo","result":"pass"}
+{"pair_id":36,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss should we add a fallback here","result":"pass"}
+{"pair_id":37,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss how to handle errors in this case","result":"pass"}
+{"pair_id":38,"sample":"sample_b","skill":"echo","position":"end","prompt":"The hook fires on every prompt and injects context only when a tag is found #echo","result":"pass"}
+{"pair_id":39,"sample":"sample_b","skill":"echo","position":"end","prompt":"End position means the tag is the last word in the prompt #echo","result":"pass"}
+{"pair_id":40,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"Before we proceed, let's #discuss the approach","result":"pass"}
+{"pair_id":41,"sample":"sample_b","skill":"echo","position":"end","prompt":"The pass rate is 69% without the hook and 82% with the hook #echo","result":"pass"}
+{"pair_id":42,"sample":"sample_b","skill":"echo","position":"end","prompt":"Should we create this section or remove it completely #echo","result":"pass"}
+{"pair_id":43,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The hook output is injected as additional context before model processes the message #fluent","result":"pass"}
+{"pair_id":44,"sample":"sample_b","skill":"fluent","position":"end","prompt":"Skills don't invoke every time when I use command for skill #fluent","result":"pass"}
+{"pair_id":45,"sample":"sample_b","skill":"echo","position":"end","prompt":"We want the skill invocation rate to be close to 100% #echo","result":"pass"}
+{"pair_id":46,"sample":"sample_b","skill":"fluent","position":"end","prompt":"We need real prompts from my actual conversations to get accurate results #fluent","result":"pass"}
+{"pair_id":47,"sample":"sample_b","skill":"echo","position":"end","prompt":"Middle position means the tag appears after some words and before others #echo","result":"pass"}
+{"pair_id":48,"sample":"sample_b","skill":"discuss","position":"end","prompt":"The session should expire after 30 minutes of inactivity #discuss","result":"pass"}
+{"pair_id":49,"sample":"sample_b","skill":"echo","position":"end","prompt":"Position start means the tag is the first word in the prompt #echo","result":"pass"}
+{"pair_id":50,"sample":"sample_b","skill":"fluent","position":"end","prompt":"We want to measure the gap between current state and 100% reliability #fluent","result":"pass"}
+{"pair_id":51,"sample":"sample_b","skill":"echo","position":"end","prompt":"The experiment compares pass rates with and without the hook #echo","result":"pass"}
+{"pair_id":52,"sample":"sample_b","skill":"discuss","position":"end","prompt":"I want to send a re-engagement message after 24 hours #discuss","result":"pass"}
+{"pair_id":53,"sample":"sample_b","skill":"echo","position":"end","prompt":"The test measures whether the Skill tool was called in the session #echo","result":"pass"}
+{"pair_id":54,"sample":"sample_b","skill":"echo","position":"end","prompt":"The hook is the third layer after CLAUDE.md tags and skills #echo","result":"pass"}
+{"pair_id":55,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"I need to #discuss this with you before moving forward","result":"pass"}
+{"pair_id":56,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss how to structure this module","result":"pass"}
+{"pair_id":57,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"I want to #discuss how to implement this step","result":"pass"}
+{"pair_id":58,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The hook injects explicit instruction into system context when tag is detected #fluent","result":"pass"}
+{"pair_id":59,"sample":"sample_b","skill":"echo","position":"end","prompt":"The hook script reads the prompt and outputs the instruction if a tag is found #echo","result":"pass"}
+{"pair_id":60,"sample":"sample_b","skill":"echo","position":"end","prompt":"The hook type is command which runs a shell script #echo","result":"pass"}
+{"pair_id":61,"sample":"sample_b","skill":"fluent","position":"end","prompt":"After this experiment we will have data to decide the next improvement step #fluent","result":"pass"}
+{"pair_id":62,"sample":"sample_b","skill":"echo","position":"end","prompt":"We remove the hook for sample 1 and restore it for sample 2 #echo","result":"pass"}
+{"pair_id":63,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I want to reduce friction and ensure consistent behavior every time #fluent","result":"pass"}
+{"pair_id":64,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss the tradeoffs of this approach","result":"pass"}
+{"pair_id":65,"sample":"sample_b","skill":"echo","position":"end","prompt":"We use a JSONL file to log each run for later analysis #echo","result":"pass"}
+{"pair_id":66,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I want to present this experiment in my blog post about skill invocation #fluent","result":"pass"}
+{"pair_id":67,"sample":"sample_b","skill":"echo","position":"end","prompt":"The discuss skill challenges ideas and asks probing questions #echo","result":"pass"}
+{"pair_id":68,"sample":"sample_b","skill":"echo","position":"end","prompt":"The UserPromptSubmit hook fires before the model receives the message #echo","result":"pass"}
+{"pair_id":69,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The hook fires before claude sees the prompt and injects instruction if tag is found #fluent","result":"pass"}
+{"pair_id":70,"sample":"sample_b","skill":"discuss","position":"end","prompt":"I think this logic is wrong #discuss","result":"pass"}
+{"pair_id":71,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The experiment should measure how well the current approach actually works #fluent","result":"pass"}
+{"pair_id":72,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"I want to #discuss whether we need this","result":"pass"}
+{"pair_id":73,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss the best way to implement this","result":"pass"}
+{"pair_id":74,"sample":"sample_b","skill":"echo","position":"end","prompt":"If no tag is found the hook outputs nothing and does nothing #echo","result":"pass"}
+{"pair_id":75,"sample":"sample_b","skill":"echo","position":"end","prompt":"We want to automate recurring interaction patterns with minimal friction #echo","result":"pass"}
+{"pair_id":76,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The test script runs 100 times and checks if the Skill tool was called #fluent","result":"pass"}
+{"pair_id":77,"sample":"sample_b","skill":"discuss","position":"end","prompt":"cron should check every 10 minutes #discuss","result":"pass"}
+{"pair_id":78,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I notice that every time skill didn't invoke I wrote something explicit and it works #fluent","result":"pass"}
+{"pair_id":79,"sample":"sample_b","skill":"discuss","position":"end","prompt":"correct #discuss","result":"pass"}
+{"pair_id":80,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I try to automate this and use hook to grow probability to invoke #fluent","result":"pass"}
+{"pair_id":81,"sample":"sample_b","skill":"echo","position":"end","prompt":"The goal is to invoke the skill every time the tag appears #echo","result":"pass"}
+{"pair_id":82,"sample":"sample_b","skill":"echo","position":"end","prompt":"We send the message after 24 hours of inactivity #echo","result":"pass"}
+{"pair_id":83,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"Let's #discuss the implementation before writing code","result":"pass"}
+{"pair_id":84,"sample":"sample_b","skill":"fluent","position":"end","prompt":"We should compare pass rates across positions to understand the pattern #fluent","result":"pass"}
+{"pair_id":85,"sample":"sample_b","skill":"echo","position":"end","prompt":"We store session start time and compare it on the next cron run #echo","result":"pass"}
+{"pair_id":86,"sample":"sample_b","skill":"fluent","position":"end","prompt":"The hook is good solution but we want to understand if it is enough #fluent","result":"pass"}
+{"pair_id":87,"sample":"sample_b","skill":"echo","position":"end","prompt":"If I restart the bot the cron will continue from last checkpoint #echo","result":"pass"}
+{"pair_id":88,"sample":"sample_b","skill":"fluent","position":"end","prompt":"We need to understand why skill invocation fails before we can fix it #fluent","result":"pass"}
+{"pair_id":89,"sample":"sample_b","skill":"echo","position":"end","prompt":"We use chi-squared test to check if the difference is statistically significant #echo","result":"pass"}
+{"pair_id":90,"sample":"sample_b","skill":"fluent","position":"end","prompt":"My first iteration was create tags in the global CLAUDE.md with relevant actions #fluent","result":"pass"}
+{"pair_id":91,"sample":"sample_b","skill":"fluent","position":"end","prompt":"This is so annoying me that I dig how to increase probability to invoke skill #fluent","result":"pass"}
+{"pair_id":92,"sample":"sample_b","skill":"discuss","position":"end","prompt":"What other messages should we send? #discuss","result":"pass"}
+{"pair_id":93,"sample":"sample_b","skill":"discuss","position":"start","prompt":"#discuss whether we need this feature at all","result":"pass"}
+{"pair_id":94,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I use tags for me this is a very native format #fluent","result":"pass"}
+{"pair_id":95,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I want to know what is the real pass rate with my actual prompts #fluent","result":"pass"}
+{"pair_id":96,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"Right, let's #discuss this task","result":"pass"}
+{"pair_id":97,"sample":"sample_b","skill":"echo","position":"end","prompt":"The experiment uses fresh sessions to avoid context contamination #echo","result":"pass"}
+{"pair_id":98,"sample":"sample_b","skill":"discuss","position":"middle","prompt":"I have an idea, let's #discuss it","result":"pass"}
+{"pair_id":99,"sample":"sample_b","skill":"fluent","position":"end","prompt":"I use fluent to improve my writing and make it sound more natural #fluent","result":"pass"}

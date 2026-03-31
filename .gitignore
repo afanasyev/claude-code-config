@@ -1,0 +1,28 @@
+# Ignore everything by default
+*
+
+# Track config
+!.gitignore
+!README.md
+!CLAUDE.md
+!settings.json
+!settings.local.json
+
+# Track hooks
+!hooks/
+!hooks/**
+
+# Track skills
+!skills/
+!skills/**
+
+# Track commands
+!commands/
+!commands/**
+
+# Track exps
+!exps/
+!exps/**
+
+# Ignore OS files everywhere
+.DS_Store
