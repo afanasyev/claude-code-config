@@ -6,11 +6,10 @@
   "permissions": {
     "ask": [
       "Bash(git commit*)",
-      "Bash(gh:*)"
+      "Bash(gh *)"
     ],
     "defaultMode": "default"
   },
-  "model": "sonnet",
   "hooks": {
     "UserPromptSubmit": [
       {
