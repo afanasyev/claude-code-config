@@ -53,3 +53,4 @@ Commit the changes with the appropriate commit message following the above forma
 - Don't add Claude in commit messages.
 - Avoid mentioning Claude in commit messages.
 - Don't use command "git add -A", use "git add <file>" instead.
+- Do NOT push to the remote repository. Commit only.
